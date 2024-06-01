@@ -1,0 +1,188 @@
+/*============================
+		COLOR Brown
+==============================*/
+::selection {
+  background: #81684b;
+}
+
+a, a:focus {
+  color: #836953;
+   font-weight: 500
+}
+
+a:hover, a:active {
+  color: #222;
+}
+
+.primary-menu ul.navbar-nav > li:hover > a:not(.btn), .primary-menu ul.navbar-nav > li > a.active:not(.btn), .fc-brown-1 {
+  color: #81684b;
+}
+.primary-menu ul.navbar-nav > li.dropdown .dropdown-menu li:hover > a:not(.btn) {
+  color: #81684b;
+}
+.primary-menu.navbar-line-under-text ul.navbar-nav > li > a:not(.btn):after {
+  border-color: #81684b;
+}
+
+/*=== Side Navigation ===*/
+.idocs-navigation .nav .nav .nav-item .nav-link.active:after, .idocs-navigation.docs-navigation-dark .nav .nav .nav-item .nav-link.active:after {
+  border-color: #81684b;
+}
+
+/* Accordion & Toggle */
+.accordion .card-header a:hover.collapsed {
+  color: #81684b !important;
+}
+.accordion:not(.accordion-alternate) .card-header a {
+  background-color: #81684b;
+  color: #fff;
+}
+
+/* Nav */
+.nav:not(.nav-pills) .nav-item .nav-link.active, .nav:not(.nav-pills) .nav-item .nav-link:hover {
+  color: #81684b;
+}
+
+.nav-tabs .nav-item .nav-link.active {
+  color: #0c2f55;
+}
+.nav-tabs .nav-item .nav-link.active:after {
+  background-color: #81684b;
+}
+.nav-tabs .nav-item .nav-link:not(.active):hover {
+  color: #81684b;
+}
+.nav-tabs.flex-column .nav-item .nav-link.active {
+  color: #81684b;
+}
+
+.nav-pills .nav-link:not(.active):hover {
+  color: #81684b;
+}
+
+#footer .nav .nav-item .nav-link:focus {
+  color: #81684b;
+}
+#footer .nav .nav-link:hover {
+  color: #81684b;
+}
+#footer .footer-copyright .nav .nav-link:hover {
+  color: #81684b;
+}
+
+/* Back to Top */
+#back-to-top:hover {
+  background-color: #81684b;
+}
+
+/* Extras */
+.bg-primary, .badge-primary {
+  background-color: #81684b !important;
+}
+
+.text-primary, .btn-light, .btn-outline-light:hover, .btn-link, .btn-outline-light:not(:disabled):not(.disabled).active, .btn-outline-light:not(:disabled):not(.disabled):active {
+  color: #81684b !important;
+}
+
+.btn-link:hover {
+  color: #63453b !important;
+}
+
+.text-muted {
+  color: #8e9a9d !important;
+}
+
+.text-light {
+  color: #dee3e4 !important;
+}
+
+a.bg-primary:focus, a.bg-primary:hover, button.bg-primary:focus, button.bg-primary:hover {
+  background-color: #63453b !important;
+}
+
+.border-primary {
+  border-color: #81684b !important;
+}
+
+.btn-primary {
+  background-color: #81684b;
+  border-color: #81684b;
+}
+.btn-primary:hover {
+  background-color: #63453b;
+  border-color: #63453b;
+}
+
+.btn-primary:not(:disabled):not(.disabled).active, .btn-primary:not(:disabled):not(.disabled):active {
+  background-color: #63453b;
+  border-color: #63453b;
+}
+
+.btn-primary.focus, .btn-primary:focus {
+  background-color: #63453b;
+  border-color: #63453b;
+}
+
+.btn-outline-primary, .btn-outline-primary:not(:disabled):not(.disabled).active, .btn-outline-primary:not(:disabled):not(.disabled):active {
+  color: #81684b;
+  border-color: #81684b;
+}
+.btn-outline-primary:hover, .btn-outline-primary:not(:disabled):not(.disabled).active:hover, .btn-outline-primary:not(:disabled):not(.disabled):active:hover {
+  background-color: #81684b;
+  border-color: #81684b;
+  color: #fff;
+}
+
+.progress-bar,
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link, .dropdown-item.active, .dropdown-item:active {
+  background-color: #81684b;
+}
+
+.page-item.active .page-link,
+.custom-radio .custom-control-input:checked ~ .custom-control-label:before,
+.custom-control-input:checked ~ .custom-control-label::before,
+.custom-checkbox .custom-control-input:checked ~ .custom-control-label:before,
+.custom-control-input:checked ~ .custom-control-label:before {
+  background-color: #81684b;
+  border-color: #81684b;
+}
+
+.list-group-item.active {
+  background-color: #81684b;
+  border-color: #81684b;
+}
+
+.page-link {
+  color: #81684b;
+}
+.page-link:hover {
+  color: #63453b;
+}
+
+.fw-lighter {
+  font-weight: lighter !important;
+}
+
+.fw-light {
+  font-weight: 300 !important;
+}
+
+.fw-normal {
+  font-weight: 400 !important;
+}
+
+.fw-medium {
+  font-weight: 500 !important;
+}
+
+.fw-semibold {
+  font-weight: 600 !important;
+}
+
+.fw-bold {
+  font-weight: 700 !important;
+}
+
+.fw-bolder {
+  font-weight: bolder !important;
+}
